@@ -127,3 +127,4 @@ Werkzeug==2.0.1
 whitenoise==5.1.0
 wrapt==1.12.1
 yarl==1.6.3
+--upgrade pip
