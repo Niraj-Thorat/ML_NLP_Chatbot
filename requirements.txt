@@ -1,3 +1,4 @@
+--upgrade pip
 absl-py==0.14.0
 aiodns==3.0.0
 aiofile==3.7.1
@@ -127,4 +128,3 @@ Werkzeug==2.0.1
 whitenoise==5.1.0
 wrapt==1.12.1
 yarl==1.6.3
---upgrade pip
